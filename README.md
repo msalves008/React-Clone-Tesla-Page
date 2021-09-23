@@ -1,4 +1,3 @@
-# Create React App - 
 # React App
  Clone Tesla Page
 
