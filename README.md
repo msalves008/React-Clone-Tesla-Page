@@ -19,17 +19,17 @@
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Matheus%20Alves-gree">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/msalves008/react-app-kitchen">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/msalves008/React-Clone-Tesla-Page">
   
-  <a href="https://github.com/msalves008/react-app-kitchen/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/msalves008/react-app-kitchen">
+  <a href="https://github.com/msalves008/React-Clone-Tesla-Page/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/msalves008/React-Clone-Tesla-Page">
   </a>
   
-  <a href="https://github.com/msalves008/react-app-kitchen/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/msalves008/react-app-kitchen">
+  <a href="https://github.com/msalves008/React-Clone-Tesla-Page/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/msalves008/React-Clone-Tesla-Page">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/msalves008/react-app-kitchen">
+  <img alt="GitHub" src="https://img.shields.io/github/license/msalves008/React-Clone-Tesla-Page">
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/msalves008/react-app-kitchen.git && cd react-app-kitchen
+$ git clone https://github.com/msalves008/React-Clone-Tesla-Page.git && cd React-Clone-Tesla-Page
 ```
 
 **Follow the steps below**
