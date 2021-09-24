@@ -31,7 +31,7 @@ const ModelOverlay: React.FC<Props> = ({model, children}) => {
     window.addEventListener('resize',onResize)
 
     return () => window.removeEventListener('resize', onResize)
-  },[])
+  },[getSectionDimensions, model.sectionRef])
 
   const {scrollY} = useWrapperScroll()
 
