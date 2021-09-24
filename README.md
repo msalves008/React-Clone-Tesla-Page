@@ -1,5 +1,7 @@
 # React App
  Clone Tesla Page
+ 
+ This project was created for educational purposes only, all image rights are reserved to the original website https://www.tesla.com/
 
  <h1 align="center">
 	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
@@ -11,10 +13,10 @@
 </p>
 
 <h3 align="center">
-  Title
+  Tesla UI Clone
 </h3>
 
-<p align="center">Short slogan</p>
+<p align="center"><a href="https://react-clone-tesla-page.vercel.app/">Test this project</a> </p>
 
 <p align="center">
 
