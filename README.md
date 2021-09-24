@@ -60,10 +60,6 @@ Technologies that I used to develop this web client
 
 ## 💻 Getting started
 
-### Requirements
-
-- Have this application's [API](https://) running
-
 **Clone the project and access the folder**
 
 ```bash
@@ -74,7 +70,7 @@ $ git clone https://github.com/msalves008/React-Clone-Tesla-Page.git && cd React
 
 ```bash
 # Install the dependencies
-$ yarn
+$ yarn install
 
 # Be sure the file 'src/services/api.ts' have the IP to your API
 
