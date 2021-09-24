@@ -1,8 +1,13 @@
 import React from 'react';
+import Page from './components/Page/index';
+import { GlobalStyles } from './styles/GlobalStyles';
 
 function App() {
   return (
-    <h1>Clone UI</h1>
+    <>
+      <Page/>
+      <GlobalStyles/>
+    </>
   );
 }
 
