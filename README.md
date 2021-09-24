@@ -72,7 +72,6 @@ $ git clone https://github.com/msalves008/React-Clone-Tesla-Page.git && cd React
 # Install the dependencies
 $ yarn install
 
-# Be sure the file 'src/services/api.ts' have the IP to your API
 
 # Start the client
 $ yarn start
